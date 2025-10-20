@@ -25,10 +25,29 @@ OpenTS-FM is a series of time series foundation models, offering strong zero-sho
 
 
 
-
-
 ## OpenTS-Auto: AutoML for Time Series
 OpenTS-Auto features the AutoCTS series, aiming at addressing the A (Automation) challenge in the AGREE principles.
+
+> **AutoCTS: Automated Correlated Time Series Forecasting**  
+> *Xinle Wu and Dalin Zhang and Chenjuan Guo and Chaoyang He and Bin Yang and Christian S. Jensen*  
+> *International Conference on Very Large Databases (PVLDB), 2021.*  
+> [[paper]](https://arxiv.org/pdf/2112.11174) | [[code]](https://github.com/WXL520/AutoCTS)
+
+> **AutoCTS+: Joint Neural Architecture and Hyperparameter Search for Correlated Time Series Forecasting**  
+> *Xinle Wu and Dalin Zhang and Miao Zhang and Chenjuan Guo and Bin Yang and Christian S. Jensen*  
+> *ACM Special Interest Group on Management of Data (SIGMOD), 2023.*  
+> [[paper]](https://vbn.aau.dk/ws/portalfiles/portal/730426496/AutoCTS_.pdf) | [[code]](https://github.com/decisionintelligence/AutoCTS_plus)
+
+> **AutoCTS++: zero-shot joint neural architecture and hyperparameter search for correlated time series forecasting**  
+> *Xinle Wu and Xingjian Wu and Bin Yang and Lekui Zhou and Chenjuan Guo and Xiangfei Qiu and Jilin Hu and Zhenli Sheng and Christian S. Jensen*  
+> *The International Journal on Very Large Data Bases (VLDBJ), 2024.*  
+> [[paper]](https://link.springer.com/article/10.1007/s00778-024-00872-x) | [[code]](https://github.com/decisionintelligence/AutoCTS_plusplus)
+
+> **Fully Automated Correlated Time Series Forecasting in Minutes**  
+> *Xinle Wu and Xingjian Wu and Dalin Zhang and Miao Zhang and Chenjuan Guo and Bin Yang and Christian S. Jensen*  
+> *International Conference on Very Large Databases (PVLDB), 2024.*  
+> [[paper]](https://arxiv.org/pdf/2411.05833) | [[code]](https://github.com/decisionintelligence/FACTS)
+
 
 ## OpenTS-DL: Deep Learning Models
 
