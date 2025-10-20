@@ -25,7 +25,15 @@ OpenTS-Bench is a comprehensive and fair benchmark of time series analytics, mai
 ## OpenTS-FM: Foundation Models
 OpenTS-FM is a series of time series foundation models, offering strong zero-shot and few-shot abilities, across data domains and analytics tasks.  This initiative addresses the Generalization challenge.
 
+> **LightGTS: A Lightweight General Time Series Forecasting Model**  
+> *Yihang Wang, Yuying Qiu, Peng Chen, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo*  
+> *International Conference on Machine Learning (ICML), 2025*  
+> [[Paper]](https://icml.cc/virtual/2025/poster/44879) | [[Code]](https://github.com/decisionintelligence/LightGTS)
 
+> **AimTS: Augmented Series and Image Contrastive Learning for Time Series Classification**  
+> *Yuxuan Chen, Shanshan Huang, Yunyao Cheng, Peng Chen, Zhongwen Rao, Yang Shu, Bin Yang, Lujia Pan, Chenjuan Guo*  
+> *International Conference on Data Engineering (ICDE), 2025*  
+> [[Paper]](https://ieeexplore.ieee.org/document/11113179) | [[Code]](https://github.com/decisionintelligence/AimTS)
 
 
 
