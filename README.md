@@ -9,12 +9,10 @@ OpenTS-Bench is a comprehensive and fair benchmark of time series analytics, mai
 > *International Conference on Very Large Databases (PVLDB), 2024*  
 > [[Paper]](https://arxiv.org/pdf/2403.20150) | [[Code]](https://github.com/decisionintelligence/TFB)
 
-
 > **TAB: Unified Benchmarking of Time Series Anomaly Detection Methods**  
 > *Xiangfei Qiu, Zhe Li, Wanghui Qiu, Shiyan Hu, Lekui Zhou, Xingjian Wu, Zhengyu Li, Chenjuan Guo, Aoying Zhou, Zhenli Sheng, Jilin Hu, Christian S. Jensen, Bin Yang*
 > *International Conference on Very Large Databases (PVLDB), 2025*  
 > [[Paper]](https://arxiv.org/pdf/2506.18046) | [[Code]](https://github.com/decisionintelligence/TAB)
-
 
 > **TSMF-Bench: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting**  
 > *Zhe Li, Xiangfei Qiu, Peng Chen, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Christian S. Jensen, Bin Yang*
