@@ -12,13 +12,13 @@ OpenTS-FM is a series of time series foundation models, offering strong zero-sho
 > **LightGTS: A Lightweight General Time Series Forecasting Model**  
 > *Yihang Wang, Yuying Qiu, Peng Chen, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo*  
 > *International Conference on Machine Learning (ICML), 2025*  
-> [[paper]](https://icml.cc/virtual/2025/poster/44879) | [[code]](https://github.com/decisionintelligence/LightGTS)
+> [[Paper]](https://icml.cc/virtual/2025/poster/44879) | [[Code]](https://github.com/decisionintelligence/LightGTS)
 
 
 > **AimTS: Augmented Series and Image Contrastive Learning for Time Series Classification**  
 > *Yuxuan Chen, Shanshan Huang, Yunyao Cheng, Peng Chen, Zhongwen Rao, Yang Shu, Bin Yang, Lujia Pan, Chenjuan Guo*  
 > *International Conference on Data Engineering (ICDE), 2025*  
-> [[paper]](https://ieeexplore.ieee.org/document/11113179) | [[code]](https://github.com/decisionintelligence/AimTS)
+> [[Paper]](https://ieeexplore.ieee.org/document/11113179) | [[Code]](https://github.com/decisionintelligence/AimTS)
 
 
 
@@ -31,22 +31,22 @@ OpenTS-Auto features the AutoCTS series, aiming at addressing the A (Automation)
 > **AutoCTS: Automated Correlated Time Series Forecasting**  
 > *Xinle Wu and Dalin Zhang and Chenjuan Guo and Chaoyang He and Bin Yang and Christian S. Jensen*  
 > *International Conference on Very Large Databases (PVLDB), 2021.*  
-> [[paper]](https://arxiv.org/pdf/2112.11174) | [[code]](https://github.com/WXL520/AutoCTS)
+> [[Paper]](https://arxiv.org/pdf/2112.11174) | [[Code]](https://github.com/WXL520/AutoCTS)
 
 > **AutoCTS+: Joint Neural Architecture and Hyperparameter Search for Correlated Time Series Forecasting**  
 > *Xinle Wu and Dalin Zhang and Miao Zhang and Chenjuan Guo and Bin Yang and Christian S. Jensen*  
 > *ACM Special Interest Group on Management of Data (SIGMOD), 2023.*  
-> [[paper]](https://vbn.aau.dk/ws/portalfiles/portal/730426496/AutoCTS_.pdf) | [[code]](https://github.com/decisionintelligence/AutoCTS_plus)
+> [[Paper]](https://vbn.aau.dk/ws/portalfiles/portal/730426496/AutoCTS_.pdf) | [[Code]](https://github.com/decisionintelligence/AutoCTS_plus)
 
 > **AutoCTS++: zero-shot joint neural architecture and hyperparameter search for correlated time series forecasting**  
 > *Xinle Wu and Xingjian Wu and Bin Yang and Lekui Zhou and Chenjuan Guo and Xiangfei Qiu and Jilin Hu and Zhenli Sheng and Christian S. Jensen*  
 > *The International Journal on Very Large Data Bases (VLDBJ), 2024.*  
-> [[paper]](https://link.springer.com/article/10.1007/s00778-024-00872-x) | [[code]](https://github.com/decisionintelligence/AutoCTS_plusplus)
+> [[Paper]](https://link.springer.com/article/10.1007/s00778-024-00872-x) | [[Code]](https://github.com/decisionintelligence/AutoCTS_plusplus)
 
 > **Fully Automated Correlated Time Series Forecasting in Minutes**  
 > *Xinle Wu and Xingjian Wu and Dalin Zhang and Miao Zhang and Chenjuan Guo and Bin Yang and Christian S. Jensen*  
 > *International Conference on Very Large Databases (PVLDB), 2024.*  
-> [[paper]](https://arxiv.org/pdf/2411.05833) | [[code]](https://github.com/decisionintelligence/FACTS)
+> [[Paper]](https://arxiv.org/pdf/2411.05833) | [[Code]](https://github.com/decisionintelligence/FACTS)
 
 
 ## OpenTS-DL: Deep Learning Models
@@ -109,7 +109,7 @@ OpenTS-DL includes deep learning models for different tasks, including forecasti
 > **Air-DualODE: Air Quality Prediction with Physics-guided Dual Neural ODEs in Open Systems**  
 > *Jindong Tian, Yuxuan Liang, Ronghui Xu, Peng Chen, Chenjuan Guo, Aoying Zhou, Lujia Pan, Zhongwen Rao, Bin Yang*  
 > *International Conference on Learning Representations (ICLR), 2025*  
-> [[Bib]](https://example.com/bib) | [[Code]](https://github.com/decisionintelligence/Air-DualODE)
+> [[Paper]](https://example.com/bib) | [[Code]](https://github.com/decisionintelligence/Air-DualODE)
 
 
 
