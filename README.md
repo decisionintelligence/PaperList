@@ -6,19 +6,22 @@ OpenTS-Bench is a comprehensive and fair benchmark of time series analytics, mai
 
 ## OpenTS-FM: Foundation Models
 OpenTS-FM is a series of time series foundation models, offering strong zero-shot and few-shot abilities, across data domains and analytics tasks.  This initiative addresses the Generalization challenge.
+> **TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods**  
+> *Xiangfei Qiu, Jilin Hu*, Lekui Zhou, Xingjian Wu, Junyang Du, Buang Zhang, Chenjuan Guo, Aoying Zhou, Christian S. Jensen, Zhenli Sheng, Bin Yang
+> *International Conference on Very Large Databases (PVLDB), 2024*  
+> [[Paper]](https://arxiv.org/pdf/2403.20150) | [[Code]](https://github.com/decisionintelligence/TFB)
 
 
+> **TAB: Unified Benchmarking of Time Series Anomaly Detection Methods**  
+> *Xiangfei Qiu, Zhe Li, Wanghui Qiu, Shiyan Hu, Lekui Zhou, Xingjian Wu, Zhengyu Li, Chenjuan Guo, Aoying Zhou, Zhenli Sheng, Jilin Hu*, Christian S. Jensen, Bin Yang
+> *International Conference on Very Large Databases (PVLDB), 2025*  
+> [[Paper]](https://arxiv.org/pdf/2506.18046) | [[Code]](https://github.com/decisionintelligence/TAB)
 
-> **LightGTS: A Lightweight General Time Series Forecasting Model**  
-> *Yihang Wang, Yuying Qiu, Peng Chen, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo*  
-> *International Conference on Machine Learning (ICML), 2025*  
-> [[Paper]](https://icml.cc/virtual/2025/poster/44879) | [[Code]](https://github.com/decisionintelligence/LightGTS)
 
-
-> **AimTS: Augmented Series and Image Contrastive Learning for Time Series Classification**  
-> *Yuxuan Chen, Shanshan Huang, Yunyao Cheng, Peng Chen, Zhongwen Rao, Yang Shu, Bin Yang, Lujia Pan, Chenjuan Guo*  
-> *International Conference on Data Engineering (ICDE), 2025*  
-> [[Paper]](https://ieeexplore.ieee.org/document/11113179) | [[Code]](https://github.com/decisionintelligence/AimTS)
+> **TSMF-Bench: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting**  
+> *Zhe Li, Xiangfei Qiu, Peng Chen, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Christian S. Jensen, Bin Yang*  
+> *ACM Knowledge Discovery and Data Mining (KDD), 2025*  
+> [[Paper]](https://arxiv.org/pdf/2410.11802) | [[Code]](https://github.com/decisionintelligence/TSFM-Bench)
 
 
 
