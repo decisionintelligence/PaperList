@@ -4,8 +4,6 @@ Developed by the Decision Intelligence Lab at East China Normal University, in c
 ## OpenTS-Bench: Benchmarks
 OpenTS-Bench is a comprehensive and fair benchmark of time series analytics, mainly including foreacsting and anaomly detection. 
 
-## OpenTS-FM: Foundation Models
-OpenTS-FM is a series of time series foundation models, offering strong zero-shot and few-shot abilities, across data domains and analytics tasks.  This initiative addresses the Generalization challenge.
 > **TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods**  
 > *Xiangfei Qiu, Jilin Hu, Lekui Zhou, Xingjian Wu, Junyang Du, Buang Zhang, Chenjuan Guo, Aoying Zhou, Christian S. Jensen, Zhenli Sheng, Bin Yang*
 > *International Conference on Very Large Databases (PVLDB), 2024*  
@@ -23,6 +21,9 @@ OpenTS-FM is a series of time series foundation models, offering strong zero-sho
 > *ACM Knowledge Discovery and Data Mining (KDD), 2025*  
 > [[Paper]](https://arxiv.org/pdf/2410.11802) | [[Code]](https://github.com/decisionintelligence/TSFM-Bench)
 
+
+## OpenTS-FM: Foundation Models
+OpenTS-FM is a series of time series foundation models, offering strong zero-shot and few-shot abilities, across data domains and analytics tasks.  This initiative addresses the Generalization challenge.
 
 
 
@@ -115,7 +116,7 @@ OpenTS-DL includes deep learning models for different tasks, including forecasti
 > [[Paper]](https://example.com/bib) | [[Code]](https://github.com/decisionintelligence/Air-DualODE)
 
 > **DBLoss: Decomposition-based Loss Function for Time Series Forecasting**  
-> *Xiangfei Qiu, Xingjian Wu, Hanyin Cheng, Xvyuan Liu, Chenjuan Guo, Jilin Hu#, Bin Yang*  
+> *Xiangfei Qiu, Xingjian Wu, Hanyin Cheng, Xvyuan Liu, Chenjuan Guo, Jilin Hu, Bin Yang*  
 > *Neural Information Processing Systems Conference (NeurIPS), 2025*  
 > [[Code]](https://github.com/decisionintelligence/DBLoss)
 
