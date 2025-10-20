@@ -55,11 +55,94 @@ OpenTS-DL includes deep learning models for different tasks, including forecasti
 
 ### Robustness
 
+> **Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective**  
+> *Xingjian Wu, Xiangfei Qiu, Hanyin Cheng, Zhengyu Li, Jilin Hu, Chenjuan Guo, Bin Yang*  
+> *Conference on Neural Information Processing Systems (NeurIPS), 2025*  
+> [[Paper]](https://arxiv.org/pdf/2510.14510) | [[Code]](https://github.com/decisionintelligence/SRSNet)
+
+> **CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling**  
+> *Beibu Li, Qichao Shentu, Yang Shu, Hui Zhang, Ming Li, Ning Jin, Bin Yang, Chenjuan Guo*  
+> *Conference on Neural Information Processing Systems (NeurIPS), 2025*  
+> [[Paper]](https://arxiv.org/pdf/2510.12489) | [[Code]](https://github.com/decisionintelligence/CrossAD)
+
+> **K2VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting**  
+> *Xingjian Wu, Xiangfei Qiu, Hongfan Gao, Jilin Hu, Chenjuan Guo, Bin Yang*  
+> *International Conference on Machine Learning (ICML), 2025*  
+> [[Paper]](https://arxiv.org/pdf/2505.23017) | [[Code]](https://github.com/decisionintelligence/K2VAE)
+
+> **CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching**  
+> *Xingjian Wu, Xiangfei Qiu, Zhengyu Li, Yihang Wang, Jilin Hu, Chenjuan Guo, Hui Xiong, Bin Yang*  
+> *International Conference on Learning Representations (ICLR), 2025*  
+> [[Paper]](https://arxiv.org/pdf/2410.12261) | [[Code]](https://github.com/decisionintelligence/CATCH)
+
+> **DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting**  
+> *Xiangfei Qiu, Xingjian Wu, Yan Lin, Chenjuan Guo, Jilin Hu, Bin Yang*  
+> *ACM Knowledge Discovery and Data Mining (SIGKDD), 2025*  
+> [[Paper]](https://arxiv.org/pdf/2412.10859) | [[Code]](https://github.com/decisionintelligence/DUET)
+
+
+
+> **Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting**  
+> *Peng Chen, Yingying Zhang, Yunyao Cheng, Yang Shu, Yihang Wang, Qingsong Wen, Bin Yang, Chenjuan Guo*  
+> *International Conference on Learning Representations (ICLR), 2024*  
+> [[Paper]](https://arxiv.org/pdf/2402.05956) | [[Code]](https://github.com/decisionintelligence/pathformer)
+
+
+> **MM-Path: Multi-modal, Multi-granularity Path Representation Learning**  
+> *Ronghui Xu, Hanyin Cheng, Chenjuan Guo, Hongfan Gao, Jilin Hu, Sean Bin Yang, Bin Yang*  
+> *ACM Knowledge Discovery and Data Mining (SIGKDD), 2025*  
+> [[Paper]](https://arxiv.org/pdf/2411.18428) | [[Code]](https://github.com/decisionintelligence/MM-Path)
+
+> **Weakly Guided Adaptation for Robust Time Series Forecasting**  
+> *Yunyao Cheng, Peng Chen, Chenjuan Guo, Kai Zhao, Qingsong Wen, Bin Yang, Christian S Jensen*  
+> *International Conference on Very Large Databases (PVLDB), 2023*  
+> [[Paper]](https://vbn.aau.dk/ws/portalfiles/portal/698843760/3636218.3636231.pdf) | [[Code]](https://github.com/YunyaoCheng/DARF)
+
+
+
+
+
+
+
 ### Explainability
+
+> **Air-DualODE: Air Quality Prediction with Physics-guided Dual Neural ODEs in Open Systems**  
+> *Jindong Tian, Yuxuan Liang, Ronghui Xu, Peng Chen, Chenjuan Guo, Aoying Zhou, Lujia Pan, Zhongwen Rao, Bin Yang*  
+> *International Conference on Learning Representations (ICLR), 2025*  
+> [[Bib]](https://example.com/bib) | [[Code]](https://github.com/decisionintelligence/Air-DualODE)
+
+
+
 
 ### Efficiency
 
+> **Enhancing Diversity for Data-free Quantization**  
+> *Kai Zhao, Zhihao Zhuang, Miao Zhang, Chenjuan Guo, Yang Shu, Bin Yang*  
+> *Computer Vision and Pattern Recognition Conference (CVPR), 2025*  
+> [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Enhancing_Diversity_for_Data-free_Quantization_CVPR_2025_paper.html) | [[Code]](https://github.com/decisionintelligence/dfq)
+
+> **Towards Lightweight Time Series Forecasting: a Patch-wise Transformer with Weak Data Enriching**  
+> *Meng Wang, Jintao Yang, Bin Yang, Hui Li, Tongxin Gong, Bo Yang, Jiangtao Cui*  
+> *International Conference on Data Engineering (ICDE), 2025*  
+> [[Paper]](https://arxiv.org/pdf/2501.10448) | [[Code]](https://github.com/wangmeng-xpu/LiPFormer)
+
+
+> **Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting**  
+> Razvan-Gabriel Cirstea, Chenjuan Guo, Bin Yang, Tung Kieu, Xuanyi Dong, Shirui Pan  
+> *International Joint Conference on Artificial Intelligence (IJCAI), 2022*  
+> [[Paper]](https://arxiv.org/pdf/2204.13767) | [[Code]](https://github.com/razvanc92/triformer)
+
+
+
+
 ### Others
+
+> **Multiple Time Series Forecasting with Dynamic Graph Modeling**  
+> *Kai Zhao, Chenjuan Guo, Yunyao Cheng, Peng Han, Miao Zhang, Bin Yang*  
+> *International Conference on Very Large Databases (PVLDB), 2024*  
+> [[Paper]](https://www.vldb.org/pvldb/vol17/p753-zhao.pdf) | [[Code]](https://github.com/zhkai/MTSF-DG)
 
 
 For more details, please refer to the individual project pages or publications.
+
+
