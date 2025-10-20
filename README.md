@@ -114,6 +114,10 @@ OpenTS-DL includes deep learning models for different tasks, including forecasti
 > *International Conference on Learning Representations (ICLR), 2025*  
 > [[Paper]](https://example.com/bib) | [[Code]](https://github.com/decisionintelligence/Air-DualODE)
 
+> **DBLoss: Decomposition-based Loss Function for Time Series Forecasting**  
+> *Xiangfei Qiu, Xingjian Wu, Hanyin Cheng, Xvyuan Liu, Chenjuan Guo, Jilin Hu#, Bin Yang*  
+> *Neural Information Processing Systems Conference (NeurIPS), 2025*  
+> [[Code]](https://github.com/decisionintelligence/DBLoss)
 
 
 
