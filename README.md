@@ -27,6 +27,22 @@ International Conference on Machine Learning (ICML), 2025.
 
 
 
+
+
+> **LightGTS: A Lightweight General Time Series Forecasting Model**  
+> *Yihang Wang, Yuying Qiu, Peng Chen, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo*  
+> *International Conference on Machine Learning (ICML), 2025*  
+> [[paper]](https://icml.cc/virtual/2025/poster/44879) | [[code]](https://github.com/decisionintelligence/LightGTS)
+
+
+> **AimTS: Augmented Series and Image Contrastive Learning for Time Series Classification**  
+> *Yuxuan Chen, Shanshan Huang, Yunyao Cheng, Peng Chen, Zhongwen Rao, Yang Shu, Bin Yang, Lujia Pan, Chenjuan Guo*  
+> *International Conference on Data Engineering (ICDE), 2025*  
+> [[paper]](https://ieeexplore.ieee.org/document/11113179) | [[code]](https://github.com/decisionintelligence/AimTS)
+
+
+
+
 <div style="background-color:#f8f9fa; padding: 1em 1.2em; border-radius: 8px; margin: 1em 0;">
 
 <p style="font-weight:600; color:#004aad; font-size:16px; margin:0;">
